@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">IchijojiRamen</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="menu_settings">Settings</string>
+    <string name="app_name">一乗寺のラーメン食べたい</string>
+    <string name="ramen_map">マップ</string>
+    <string name="ramen_list">リスト</string>
+    <string name="qr_code_reader">QRコードリーダー</string>
+    <string name="map">マップ表示</string>
+    <string name="list">リスト表示</string>
+    <string name="qr_code">QRコード読取り</string>
+    <string name="menu_others">その他</string>
+    <string name="shop">ラーメン屋</string>
+    <string name="how_to_use">QRコードを画面中央に合わせて、メニューボタンを押して下さい</string>
 
 </resources>

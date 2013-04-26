@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="sakura">#FDD9D9</color>
+    <color name="gray">#777777</color>
+    <color name="light_gray">#AAAAAA</color>
+    <color name="sky">#A0D8EF</color>
+
+</resources>

@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/sakura"
+    tools:context=".IchijojiRamen" >
+
+    <Button
+        android:id="@+id/coupon_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="クーポン画面" />
+
+    <ListView
+        android:id="@+id/listview"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/coupon_button"
+        android:divider="@color/gray"
+        android:dividerHeight="0.5sp"
+        android:fadingEdge="none" />
+
+</RelativeLayout>
